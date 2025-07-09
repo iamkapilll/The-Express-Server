@@ -1,0 +1,66 @@
+{
+    "soccer": {
+      "name": "Soccer",
+      "subscribers": 800000,
+      "description": "The football subreddit. News, results and discussion",
+      "posts": [
+        {
+          "title": "Marten de Roon to make pizza for more than 1,000 people",
+          "author": "joextreme",
+          "img":"https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29jY2VyfGVufDB8fDB8fHww"
+        },
+        {
+          "title": "Stephan Lichtsteiner has retired from professional football",
+          "author": "odd person",
+          "img":"https://plus.unsplash.com/premium_photo-1684888759266-ce3768052c80?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c29jY2VyfGVufDB8fDB8fHww"
+        },
+        {
+          "title": "OFFICIAL: Dani Parejo signs for Villarreal",
+          "author": "joextreme",
+          "img": "https://images.unsplash.com/photo-1517747614396-d21a78b850e8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNvY2NlcnxlbnwwfHwwfHx8MA%3D%3D"
+        }
+      ]
+    },
+    "chicken": {
+      "name": "Chicken",
+      "subscribers": 500000,
+      "description": "The chicken subreddit. All about chickens and eggs",
+      "posts": [
+        {
+          "title": "Best chicken breeds for laying eggs",
+          "author": "cluckmaster",
+          "img": "https://plus.unsplash.com/premium_photo-1664527009188-a8f5e05589fb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+          "title": "How to raise baby chicks",
+          "author": "poultrylover"
+        },
+        {
+          "title": "Eggcellent recipes for breakfast",
+          "author": "egghunter",
+            "img":"https://images.unsplash.com/photo-1589731234361-36258f083832?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2hpY2tlbnN8ZW58MHx8MHx8fDA%3D"
+        }
+      ]
+    },
+    "mightyHarvesting": {
+      "name": "Mighty Harvesting",
+      "subscribers": 100000,
+      "description": "A subreddit for farming and harvest enthusiasts",
+      "posts": [
+        {
+          "title": "How to maximize harvest yield",
+          "author": "farmerjoe",
+          "img" : "https://plus.unsplash.com/premium_photo-1680344513206-b1f8ff2f4c8c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGFydmVzdGluZ3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+          "title": "Tips for using organic fertilizers",
+          "author": "greenfingers",
+          "img": "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhcnZlc3Rpbmd8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+          "title": "The future of sustainable farming",
+          "author": "earthwarrior"
+        }
+      ]
+    }
+  }
